@@ -1,6 +1,6 @@
-# Hi, I'm Brett.
+# Hi, I'm randomguy.
 
-I'm a student graduating from St Andrew's Cathedral School in 2024. I learned to code in school and a bit for fun. I'm also a former TF2 MvM mission designer/programmer.
+I'm a student graduating from school in 2024. I learned to code in school and a bit for fun. I'm also a former former TF2 MvM mission designer/programmer.
 
 ### About me 
 - 👋 I often go by "randomguy" online.
